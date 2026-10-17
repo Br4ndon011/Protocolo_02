@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/d:\\documentos\\upiiz\\7mo_semestre\\metodología_de_la_investigación\\protocolo_2\\Plantilla_Protocolo_Latex\\main.aux": true,
+        "**/d:\\documentos\\upiiz\\7mo_semestre\\metodología_de_la_investigación\\protocolo_2\\Plantilla_Protocolo_Latex\\main.log": true,
+        "**/d:\\documentos\\upiiz\\7mo_semestre\\metodología_de_la_investigación\\protocolo_2\\Plantilla_Protocolo_Latex\\main.gz": true,
+        "**/d:\\documentos\\upiiz\\7mo_semestre\\metodología_de_la_investigación\\protocolo_2\\Plantilla_Protocolo_Latex\\main.out": true
+    }
+}

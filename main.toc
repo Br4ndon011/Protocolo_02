@@ -1,0 +1,40 @@
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+{\ifnum \value {tocdepth} > 0 \fi }
+\contentsline {chapter}{Resumen}{\es@scroman {i}}{section*.5}%
+\contentsline {chapter}{Palabras clave}{\es@scroman {i}}{section*.6}%
+{\ifnum \value {tocdepth} > 0 \fi }
+\contentsline {chapter}{Abstract}{\es@scroman {ii}}{section*.7}%
+\contentsline {chapter}{Keywords}{\es@scroman {ii}}{section*.8}%
+\contentsline {chapter}{\numberline {I}{{Introducción}}}{1}{chapter.1}%
+{\ifnum \value {tocdepth} > 0 \fi }
+\contentsline {section}{\numberline {1.1}Objetivos}{1}{section.1.1}%
+\contentsline {chapter}{\numberline {II}{{Justificación}}}{2}{chapter.2}%
+\contentsline {chapter}{\numberline {III}{{Marco teórico}}}{3}{chapter.3}%
+{\ifnum \value {tocdepth} > 0 \fi }
+\contentsline {section}{\numberline {3.1}Paneles solares}{4}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Sistemas}{6}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Sistemas mecánicos}{6}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Sistemas eléctricos}{7}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Automatización}{7}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Métodos de limpieza de paneles solares}{9}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Mecánico}{9}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Eléctrico}{9}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Autolimpieza química}{9}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Limpieza por succión al vacio}{10}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}Limpieza automática basada en limpiaparabrisas}{10}{subsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.4.6}Precipitador electrostático}{10}{subsection.3.4.6}%
+\contentsline {section}{\numberline {3.5}Sensores}{10}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}RTD}{11}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}LDR}{11}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Sensor de Polvo}{11}{subsection.3.5.3}%
+\contentsline {chapter}{\numberline {IV}{{Estado del arte}}}{12}{chapter.4}%
+\contentsline {chapter}{\numberline {V}{{Metodología de trabajo}}}{16}{chapter.5}%
+\contentsline {chapter}{\numberline {VI}{{Productos o resultados esperados}}}{17}{chapter.6}%
+\contentsline {chapter}{\numberline {VII}{{Viabilidad del proyecto}}}{18}{chapter.7}%
+{\ifnum \value {tocdepth} > 0 \fi }
+\contentsline {section}{\numberline {7.1}Recursos humanos}{18}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Equipo e instalaciones necesarias}{18}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Costo}{19}{section.7.3}%
+\contentsline {chapter}{\numberline {VIII}{{Cronograma de actividades}}}{20}{chapter.8}%
+\contentsline {chapter}{\numberline {IX}{{Fuentes de consulta}}}{22}{chapter.9}%
